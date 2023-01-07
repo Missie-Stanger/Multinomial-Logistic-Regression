@@ -1,2 +1,2 @@
 # Multinomial-Logistic-Regression
- SPSS syntax and R code for multinomial logistic regression.
+ This is the spss syntax used in chapter 2 of my thesis. It includes multinomial logistic regression......
